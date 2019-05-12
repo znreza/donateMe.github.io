@@ -1,7 +1,8 @@
-DonateMe: A fully functioned donation website
+# DonateMe: A fully functioned donation website
 
 DonateMe is a fully functioned website built to encourage people to donate more to the who are in need living nearby. It has the following features.
 
+# Features
 
 •	People can find their local community and post what they want to donate. 
 
@@ -17,16 +18,27 @@ DonateMe is a fully functioned website built to encourage people to donate more 
 
 •	Users can also create events, just like Facebook event pages, where they can post which day at what place there will be a mass donation to be taken place. 
 
-Front-end: HTML, CSS, JavaScript
 
-Back-end: PHP, MySQL
 
-Server-side Service: Xampp, PHPMyAdmin
+### Stacks Used
 
-How to use:
+**Front-end:** HTML, CSS, JavaScript
+
+**Back-end:** PHP, MySQL
+
+**Server-side Service:** Xampp, PHPMyAdmin
+
+
+### How to use:
+
 1) Fork the repository
+
 2) Clone the repository
+
 3) Install Xampp
+
 4) Import a5798722_donatio.sql to the database field. It contains the entire schema and all the tables.
+
 5) Run index.php file in your browser.
+
 
