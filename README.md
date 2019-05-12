@@ -1,4 +1,4 @@
-# DonateMe: A fully functioned donation website
+# DonateMe: A fully functional donation website
 
 DonateMe is a fully functioned website built to encourage people to donate more to the who are in need living nearby. It has the following features.
 
